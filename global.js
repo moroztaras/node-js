@@ -19,4 +19,7 @@
 // console.log(process.env);
 
 // Get arguments command line
-console.log(process.argv);
+// console.log(process.argv);
+
+// Get second argument
+console.log(`Hello ${process.argv[2]}!`);

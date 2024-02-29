@@ -4,3 +4,7 @@
 ```bash
 node test
 ```
+
+```bash
+node global 
+```
