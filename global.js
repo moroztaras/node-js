@@ -8,3 +8,6 @@ setTimeout(() => {
 
 // Get rout to this dir
 console.log(__dirname);
+
+// Get rout to this file
+console.log(__filename);
