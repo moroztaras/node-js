@@ -13,4 +13,7 @@
 // console.log(__filename);
 
 // Show object process
-console.log(process);
+// console.log(process);
+
+// Show object process.env
+console.log(process.env);
