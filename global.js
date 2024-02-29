@@ -16,4 +16,7 @@
 // console.log(process);
 
 // Show object process.env
-console.log(process.env);
+// console.log(process.env);
+
+// Get arguments command line
+console.log(process.argv);
