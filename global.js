@@ -22,4 +22,11 @@
 // console.log(process.argv);
 
 // Get second argument
-console.log(`Hello ${process.argv[2]}!`);
+// console.log(`Hello ${process.argv[2]}!`);
+
+// Object URL
+const url = new URL("https://node-js.com/path/name#test");
+console.log(url.hostname);
+console.log(url.href);
+console.log(url.pathname);
+console.log(url.hash);
