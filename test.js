@@ -2,4 +2,5 @@ const userName = "Taras";
 
 const sayHi = (userName) => `Hello, my name is ${userName}`;
 
-console.log(sayHi(userName));
+// Make module for export only variable
+module.exports = userName;
