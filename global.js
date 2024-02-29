@@ -5,3 +5,6 @@
 setTimeout(() => {
  console.log("Hello Node JS!");
 }, 3000);
+
+// Get rout to this dir
+console.log(__dirname);
